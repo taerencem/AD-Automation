@@ -1,0 +1,4 @@
+Name,Username,ObjectType,DistinguishedName
+John Doe,jdoe,User Account,CN=John Doe,OU=Employees,DC=yourdomain,DC=com
+Server Admins,server-admins,Nested Group,CN=Server Admins,OU=Groups,DC=yourdomain,DC=com
+Jane Smith,jsmith,User Account,CN=Jane Smith,OU=IT,DC=yourdomain,DC=com
