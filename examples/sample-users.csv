@@ -1,0 +1,4 @@
+FirstName,LastName,Username,Password,OU
+John,Doe,jdoe,Password123,"OU=Employees,DC=yourdomain,DC=com"
+Sarah,Smith,ssmith,Password123,"OU=Employees,DC=yourdomain,DC=com"
+Mike,Brown,mbrown,Password123,"OU=Contractors,DC=yourdomain,DC=com"
