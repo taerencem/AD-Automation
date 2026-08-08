@@ -1,0 +1,4 @@
+Name,Username,Enabled,LastLogon,ActivityStatus
+John Doe,jdoe,Enabled,2024-07-15,Active
+Jane Smith,jsmith,Enabled,,Never Logged In
+Mike Brown,mbrown,Disabled,2023-11-02,Inactive
