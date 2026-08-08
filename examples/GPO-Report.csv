@@ -1,0 +1,3 @@
+GPOName,GUID,Created,Modified,LinkedOUs,WMIFilter,SecurityFilter
+Default Domain Policy,{GUID},2023-01-01,2024-02-10,"OU=Employees; OU=IT",None,"Authenticated Users"
+Workstation Policy,{GUID},2023-03-15,2024-01-20,"OU=Workstations",LaptopFilter,"IT Admins; Helpdesk"
