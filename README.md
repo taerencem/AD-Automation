@@ -27,3 +27,17 @@ This toolkit showcases automation skills used by System Administrators and Level
 ---
 
 ## 📂 Project Structure
+
+---
+
+## 🧪 Real-World Use Cases
+- Onboarding 20+ employees at once  
+- Auditing permissions for compliance  
+- Cleaning up stale accounts  
+- Automating repetitive L3 helpdesk tasks  
+
+---
+
+## 🧩 About the Author
+Taerence McNeal — IT Support & Systems Administration  
+Supports 200+ users across 80 locations using AD, Group Policy, PowerShell, Azure, AWS, and enterprise monitoring tools.
